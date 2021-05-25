@@ -4,4 +4,4 @@
 
 `ng serve -o`
 
-![video](last (1).gif)
+![video](https://github.com/Walaa-Zahran/AngularBootstrap/blob/8ad2460b9a32576b96aed5c4766e7428a04a7b27/last%20(1).gif)
